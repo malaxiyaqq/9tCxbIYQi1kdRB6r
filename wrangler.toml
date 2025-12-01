@@ -1,3 +1,3 @@
-name = "你的-worker-sd"  # 自定义名称（比如你的项目名）
+name = "worker-sd"  # 自定义名称（比如你的项目名）
 main = "index.js"        # 入口文件路径（关键！填你的实际文件名，如 worker.js）
 compatibility_date = "2025-10-01"  # 填当前日期（格式 YYYY-MM-DD，比如今天是2024-10-05就填这个）
